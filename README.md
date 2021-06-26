@@ -7,8 +7,8 @@ My name is Thanundorn Chainonthee.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nongming.indy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanundorn chainonthee" height="30" width="40" /></a>
-<a href="https://instagram.com/mmattrixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmattrixx" height="30" width="40" /></a>
+<a href="https://fb.com/nongming.indy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanundorn chainonthee" height="30" width="40" /></a>
+<a href="https://instagram.com/mmattrixx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmattrixx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
